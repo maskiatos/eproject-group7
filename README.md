@@ -18,7 +18,7 @@ Group members                  Name	                        Student ID
 
 ============================
 
-eProject documentation at: https://github.com/DH-Pub/eProject-CambridgeHospital/tree/main/0%20-%20documents
+eProject documentation at: https://github.com/maskiatos/eproject-group7-T1.2106.E1/tree/main/Review
 
 ============================
 
