@@ -15,3 +15,19 @@ Group members                  Name	                        Student ID
                                Vũ Minh Châu                     Student1320496 
                                Nguyễn Trung Hiếu                Student1318427       
 </pre>
+
+============================
+
+eProject documentation at: https://github.com/DH-Pub/eProject-CambridgeHospital/tree/main/0%20-%20documents
+
+============================
+
+eProject published at: https://maskiatos.github.io/eproject-group7-T1.2106.E1/#!/
+
+============================
+
+eProject video published at: https://www.youtube.com/watch?v=p-dqI8Crl1c
+
+============================
+
+Thank you for spending your time to look at our work.
