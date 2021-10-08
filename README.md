@@ -11,7 +11,7 @@ Project-title: Cambridge Hospital Website
 
 <pre>
 Group members                  Name	                        Student ID
-                               Vũ Đức Thịnh (Team leader)       Student1319917
-                               Vũ Minh Châu                     Student1317115 
-                               Nguyễn Trung Hiếu                Student1318431       
+                               Vũ Đức Thịnh (Team leader)       Student1331931
+                               Vũ Minh Châu                     Student1320496 
+                               Nguyễn Trung Hiếu                Student1318427       
 </pre>
