@@ -1,11 +1,11 @@
 # eproject-La Imperial
-T1.2106.E1 eProject group 1
+T1.2106.E1 eProject group 7
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project-title: Cambridge Hospital Website
+Project-title: La Imperial Website
 
-=========> Group 1 <=========
+=========> Group 7 <=========
 
 3 collarborators: 
 
