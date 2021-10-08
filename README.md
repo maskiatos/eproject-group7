@@ -10,8 +10,8 @@ Project-title: Cambridge Hospital Website
 3 collarborators: 
 
 <pre>
-Group members                  Name	                           Student ID
-                          Vũ Đức Thịnh (Team leader)       Student1319917
-                          Vũ Minh Châu                     Student1317115 
-                          Nguyễn Trung Hiếu                Student1318431       
+Group members                  Name	                            Student ID
+                               Vũ Đức Thịnh (Team leader)       Student1319917
+                               Vũ Minh Châu                     Student1317115 
+                               Nguyễn Trung Hiếu                Student1318431       
 </pre>
